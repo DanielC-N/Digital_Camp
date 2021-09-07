@@ -8,7 +8,7 @@
     - ajoutez une section pour les titres de tableaux en utilisant `<thead>`.
     - Ensuite, ajoutez deux lignes à l'intérieur de celui-ci en utilisant l'élément table row.
 
-4. Dans le premier élément de la ligne de tableau, à partir de la tâche 3:
+4. Dans le premier élément de la ligne de tableau:
     - ajoutez un élément d'en-tête de tableau.
     - À l'intérieur de celui-ci, ajoutez un `<h1>` avec le texte suivant `Programme de la fête`.
 
@@ -23,9 +23,9 @@
 
 
 
-7. À l'intérieur du corps du tableau que vous avez créé dans la tâche précédente, créez 5 lignes en utilisant l'élément `row` du tableau.
+8. À l'intérieur du corps du tableau que vous avez créé dans la tâche précédente, créez 5 lignes en utilisant l'élément `row` du tableau.
 
-8. À l'intérieur de chaque ligne, créez deux cellules en utilisant l'élément de données du tableau.
+9. À l'intérieur de chaque ligne, créez deux cellules en utilisant l'élément de données du tableau.
    La première donnée du tableau de chaque ligne doit avoir la classe d'attribut avec la valeur `left`.
 
 
