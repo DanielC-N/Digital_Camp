@@ -64,7 +64,7 @@ Veillez à inclure l'attribut target="_blank" pour qu'il s'ouvre dans une nouvel
 
 Denis veut s'assurer que ses amis puissent la contacter.
 
-12. Au bas de votre corps, ajoutez un nouveau <div> et définissez son id="contact".
+12. Au bas de votre corps, ajoutez un nouveau `<div>` et définissez son id="contact".
 
 13. À l'intérieur d'un paragraphe, créez une nouvelle balise et placez-y les informations de contact suivantes :
     - `email: denis.p@openworld.com | tel: 06-52-12-16-89-09 | adresse: 10 Rue des Antonins Villeurbanne`
