@@ -10,7 +10,7 @@
  
 3. La taille de police de la description de la recette doit être plus grande. Dans le CSS, écrivez un sélecteur CSS pour la classe `.description`.
     - À l'intérieur de ses accolades, ajoutez le CSS suivant :
-    `font-size: 20px;`
+    `font-size: 30px;`
 
 
     
