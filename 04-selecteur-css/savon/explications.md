@@ -22,7 +22,7 @@
      ```
      
 5. Changeons les puces de la liste des ingrédients en carrés au lieu de cercles ainsi que leurs couleurs.
-   - Écrire un sélecteur pour les éléments `li` à l'intérieur de l'élément `.ingredients`.
+   - Écrire un sélecteur pour les éléments `li` à l'aide de la classe `.ingredients`.
    - À l'intérieur des parenthèses écrivez:
      `list-style: square;`
    - Modifier la couleur en ajoutant:
