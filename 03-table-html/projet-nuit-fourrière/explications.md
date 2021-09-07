@@ -65,6 +65,7 @@
       - Pomme
       - TINDERSTICKS BILL CALLAHAN
       - CARGO MALI-LYON
+      - CLASS
 ___
 
 | [Précédent](../10-pied-tableau.md)       |      [Quiz-TODO]()     |  [Suivant : 4-selecteur-css](../../04-selecteur-css/1-style-en-ligne.md)  |
