@@ -30,7 +30,7 @@
      
 
 6. Faisons apparaître en bleu le temps nécessaire à chaque étape de préparation.
-   - Dans le CSS, écrivez un sélecteur pour `p` éléments qui ont également une classe de `.time`.
+   - Dans le CSS, écrivez un sélecteur pour `p` et les éléments qui ont également une classe de `.time`.
    - À l'intérieur des parenthèses écrivez: 
      `color: teal;`
      
