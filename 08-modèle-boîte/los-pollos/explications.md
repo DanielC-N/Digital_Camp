@@ -9,7 +9,7 @@ La plupart des éléments pour lesquels vous devrez ajouter des styles ont déj�
 
 ## A vous de jouer !
 
-1. Reprendre le code [suivant](./start/style.css):
+1. Reprendre le code [suivant](./start/):
 
 2. Vous allez parcourir le menu de Los Pollos Hermanos de haut en bas. Commençons par styliser l'élément `<nav>` contenant le logo et les éléments de navigation.
     - Réglez `width` de `img` à 180 pixels.
