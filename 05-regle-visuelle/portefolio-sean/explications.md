@@ -31,9 +31,6 @@ Dans ce projet, vous utiliserez vos connaissances des règles visuelles CSS pour
   
 9. Changez la police de toute la page.
     - Créer le sélecteur body et fixer la police de la page en `Georgia`.
-
-
-10. Définissez la police avec la propriété `font-family`.
   ```css
   font-family: Georgia;
   ```
