@@ -30,7 +30,6 @@ Grâce à votre compréhension de la typographie, aidez Aldous Huxley à amélio
     - `Work Sans` avec une épaisseur de `400`, `500` et `800`.
     - `Merriweather` avec une épaisseur de `400` et `400 italic`.
     
-    - Vous pouvez soit lier ces polices dans une seule balise `<link>`, soit trois balises séparées.
     
 6. Vous pouvez désormais utiliser les nouvelles polices de Google Fonts dans le cadre de notre projet. En vous déplaçant à nouveau vers le bas de la page, définissez la propriété des familles de police `font-family` comme recommandé :
     - Dans la section `banner`, définissez la police de la balise `<h2>` sur `Work Sans`.
