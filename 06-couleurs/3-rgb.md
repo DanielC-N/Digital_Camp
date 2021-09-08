@@ -3,7 +3,7 @@
 Il existe une autre syntaxe pour représenter les valeurs RGB qui utilise des nombres décimaux. Elle ressemble à ceci :
 ```css
 h1 {
-  color: rgb(23, 45, 23);
+  color: rgb(23, 106, 254);
 }
 ```
 
