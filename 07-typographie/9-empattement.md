@@ -40,7 +40,7 @@ Les polices spécifiées après `Garamond` sont les polices de secours (`Times`,
 1. Reprendre votre code.
 
 2. Sous la bannière, la page web est composée de trois sections de polices principales, Serif, Sans-Serif et Monospace. Chacune de ces sections présente un exemple de police, respectivement `Garamond`, `Helvetica` et `Space Mono`.
-  - Nous allons nous concentrer sur le style de la section `Garamond` ici. Dans `style.css`, dans la section "Font Card", créez le sélecteur `.garamond .sample .text`.
+  - Nous allons nous concentrer sur le style de la section `Garamond` ici. Dans `style.css`, créez le sélecteur `.garamond .sample .text`.
 
 3. À l'aide du sélecteur que vous venez de créer, réglez la police sur `Garamond` et ajoutez un empattement comme police de repli.
 
