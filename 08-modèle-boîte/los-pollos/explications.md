@@ -41,7 +41,7 @@ La plupart des éléments pour lesquels vous devrez ajouter des styles ont déj�
   - Réglez la largeur à 200 pixels.
   - Réglez le rembourrage à 20 pixels.
   - Réglez les marges verticales sur 40 pixels et les marges horizontales sur automatique.
-  - Donnez au bouton une bordure `#fcd93b` solid de 1 pixel.
+  - Donnez au bouton une bordure solide de 1 pixel avec une couleur "`#fcd93b`".
   
 8. Enfin concentrons nous sur les faits nutritifs de la section `nutrition` en bas de la page.
   - Définissez le rembourrage de l'élément `ul.nutrition` à 20 pixels.
