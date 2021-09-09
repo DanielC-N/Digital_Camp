@@ -30,4 +30,4 @@ Ajoutez des transitions pour que les changements se fassent en douceur.
 
 ___
 
-| [Précédent](./5-combinaisons.md)       | [Quiz-TODO]()      |     [(SOON) : 15-final](../../15-final/1-mise-en-place-git.md)     |
+| [Précédent](../5-combinaisons.md)       | [Quiz-TODO]()      |     [(SOON) : 15-final](../../15-final/projet-final.md)     |
