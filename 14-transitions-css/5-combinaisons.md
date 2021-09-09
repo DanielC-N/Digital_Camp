@@ -16,7 +16,7 @@ Le code ci-dessus fait la transition entre deux propriétés à la fois. La coul
 
 ## A vous de jouer !
 
-1. Reprenez le code [suivant](exercices-versions/v0-14-5/).
+1. Reprenez le code [suivant](versions-exercices/v0-14-5/).
 
 2. Lorsque vous passez la souris sur le bouton du navigateur, vous remarquerez qu'il change instantanément. Réglons ce problème de manière à ce que le changement soit animé.
   Faites une nouvelle déclaration CSS dans style.css pour cibler tous les éléments du bouton. Il y a trois types d'éléments à prendre en compte, `<span>`, `<div>`, and `<i>` :

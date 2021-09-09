@@ -16,7 +16,6 @@ Dans l'exemple ci-dessus, une modification de la largeur de l'élément commence
 
 1. Reprenez le code [suivant](./versions-exercices/v0-14-2/)
 
-  
 2. Réduire le délai en changeant la valeur à cent millisecondes.
     > css .game .gazelle { transition-delay : 3s ; }
 
