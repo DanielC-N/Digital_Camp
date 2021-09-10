@@ -21,8 +21,8 @@ L'organisation du dossier comportant tous les fichiers doit s'organiser comme ci
 
 ```
 # Dossier à rendre sous format
-    ├── index.html # fichier contenant le code html
-    └── style.css  # fichier contenant le code css
+    ├── html.txt # fichier contenant le code html
+    └── css.txt  # fichier contenant le code css
 ```
 
 Pour les images celles-ci doivent être libres de droit. Voici [le site Pixabay](https://pixabay.com/fr/) très utile  pour récupérer de telles images.
