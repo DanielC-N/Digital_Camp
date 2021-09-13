@@ -21,8 +21,8 @@ L'organisation du dossier comportant tous les fichiers doit s'organiser comme ci
 
 ```
 # Dossier à rendre sous format
-    ├── index.html # fichier contenant le code html
-    └── style.css  # fichier contenant le code css
+    ├── html.txt # fichier contenant le code html
+    └── css.txt  # fichier contenant le code css
 ```
 
 Pour les images celles-ci doivent être libres de droit. Voici [le site Pixabay](https://pixabay.com/fr/) très utile  pour récupérer de telles images.
@@ -31,7 +31,7 @@ Vous pouvez continuer le travail sur l'éditeur [JsFiddle](https://jsfiddle.net/
 
 Aller sur le site [Pixabay](https://pixabay.com/fr/), trouvez des images allant bien avec votre sujet et copier l'adresse de l'image pour la coller dans l'éditeur.  
 
-### Lien vers le dépôt : <a href="TODO" target="_blank">Soon...</a>
+### Lien vers le dépôt : <a href="https://moodle.ucly.fr/21-22/mod/assign/view.php?id=17528" target="_blank">Cliquez ici</a>
 
 ## Barème
 | Élément du cours | Critère | Note |
