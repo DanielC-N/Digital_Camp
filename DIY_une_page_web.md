@@ -1,8 +1,8 @@
 ## 1. Quels logiciels à installer sur mon ordinateur pour coder en html (et autres) ?
 
-Je vous conseille d'installer Visual studio code, il est gratuit et voilà un mini-tutoriel de raccourcis clavier avec les commandes qui me paraissent être les plus importantes: [cliquez-ici](./VSCode_tips.md).  
+Je vous conseille d'installer [Visual studio code](https://code.visualstudio.com/Download), il est gratuit et voilà un mini-tutoriel de raccourcis clavier avec les commandes qui me paraissent être les plus importantes: [cliquez-ici](./VSCode_tips.md).  
 
-Bonnes pratiques : [cliquez-ici](./VSCode_bonnes_pratiques.md).
+Bonnes pratiques et installation de VSCode : [cliquez-ici](./VSCode_bonnes_pratiques.md).
 
 ## 2. Comment voir ma page html ?
 
