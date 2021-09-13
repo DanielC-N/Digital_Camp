@@ -12,4 +12,4 @@
 <link rel="stylesheet" type="text/css" href="./style.css">
 ```
 
-Vous êtes fin prêt à démarrer !
+Vous êtes fin prêt(e) à démarrer !
