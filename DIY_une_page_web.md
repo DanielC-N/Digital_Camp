@@ -76,7 +76,11 @@ Vous voyez le schéma ?
 * donc `../../` signifie : le dossier grand-parent
 * etc.
 
-## Et pour les images ?
+## DONC
+Dans mon lien **depuis** `troisieme.html` **vers** `index.html` j'aurais le lien suivant :  
+`../index.html`  
+
+# Et pour les images ?
 
 Eh bien pour les images, reprenons la manière de ranger mes fichiers plus haut.  
 Je vous propose de faire comme suit :  
@@ -107,8 +111,3 @@ le `src` veut dire :
 * `poisson.png` dans lequel il y a mon image !
 
 Capish ?
-
-
-## DONC
-Dans mon lien **depuis** `troisieme.html` **vers** `index.html` j'aurais le lien suivant :  
-`../index.html`
