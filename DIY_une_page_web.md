@@ -76,6 +76,39 @@ Vous voyez le schéma ?
 * donc `../../` signifie : le dossier grand-parent
 * etc.
 
+## Et pour les images ?
+
+Eh bien pour les images, reprenons la manière de ranger mes fichiers plus haut.  
+Je vous propose de faire comme suit :  
+```bash
+# Mon projet
+    ├── index.html        # fichier contenant le code html
+    ├── seconde.html      # ma deuxieme page html
+    └── quelconque/       # un dossier quelconque
+    │  ├── troisieme.html # ma troisieme page html
+    ├── ressources/       # mon dossier d'images/ressources
+    │  ├── poisson.png    # une image de poisson
+    │  ├── mer.jpg        # une autre de la mer
+        .
+        .
+        .
+    └── style.css         # fichier contenant le code css
+```
+
+Vous voyez ? J'ai un dossier de ressources où je mets toutes mes images, vidéos, médias, etc.  
+
+Si je veux afficher l'image `poisson.png` **dans** `index.html`, je dois écrire le code suivant:  
+```html
+<img src="./ressources/poisson.png" alt="Un poisson">
+```
+le `src` veut dire :
+* `./` dans le dossier **courant**
+* `ressources/` j'ai un dossier `ressources`
+* `poisson.png` dans lequel il y a mon image !
+
+Capish ?
+
+
 ## DONC
 Dans mon lien **depuis** `troisieme.html` **vers** `index.html` j'aurais le lien suivant :  
 `../index.html`
